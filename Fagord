@@ -1,0 +1,21 @@
+<!--
+<div> → En container til at organisere indhold (bruges mange steder i din kode).
+
+<h1> til <h2> → Overskrifter på siden (f.eks. "Salg af FIFA points", "Populære pakker").
+
+<p> → Afsnit med tekst (f.eks. beskrivelser af FIFA-pakkerne).
+
+<button> → Klikbare knapper (f.eks. "Køb dine FIFA points her!").
+
+<a> → Links (f.eks. i navbaren og i footeren til e-mail).
+
+<img> → Viser billeder (f.eks. logo, produktbilleder, slider-billeder).
+
+<nav> → Navigation (bruges til menuen i toppen af siden).
+
+<footer> → Bundsektionen (med copyright og e-mail link).
+
+<script> → Linker til Bootstrap JavaScript, så interaktive elementer virker.
+
+
+href betyder "Hypertext Reference" og bruges i <a>-tags (links) og JavaScript til at angive en destination, som en bruger kan navigere til.
